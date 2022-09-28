@@ -3,6 +3,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "68e9bfaa-cef8-4f3d-a0b2-ea12538e3ff9": {
+          "type": "rating",
+          "disabled": true,
+          "settings": {
+          }
+        },
         "vendor": {
           "type": "text",
           "settings": {
@@ -117,15 +123,10 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "68e9bfaa-cef8-4f3d-a0b2-ea12538e3ff9": {
-          "type": "rating",
-          "disabled": true,
-          "settings": {
-          }
         }
       },
       "block_order": [
+        "68e9bfaa-cef8-4f3d-a0b2-ea12538e3ff9",
         "vendor",
         "title",
         "4c15a4e0-eb11-4794-a1ac-3ba06284e2f8",
@@ -141,8 +142,7 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share",
-        "68e9bfaa-cef8-4f3d-a0b2-ea12538e3ff9"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
