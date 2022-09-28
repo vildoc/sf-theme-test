@@ -19,7 +19,7 @@
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.custom.lotyniskas_pavadinimas.value }}",
-            "text_style": "subtitle"
+            "text_style": "uppercase"
           }
         },
         "caption": {
