@@ -42,7 +42,7 @@
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button"
+            "picker_type": "dropdown"
           }
         },
         "quantity_selector": {
@@ -115,6 +115,12 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "68e9bfaa-cef8-4f3d-a0b2-ea12538e3ff9": {
+          "type": "rating",
+          "disabled": true,
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -133,7 +139,8 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share"
+        "share",
+        "68e9bfaa-cef8-4f3d-a0b2-ea12538e3ff9"
       ],
       "settings": {
         "enable_sticky_info": true,
