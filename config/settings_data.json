@@ -241,6 +241,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "8648061512719483524": {
+        "type": "shopify:\/\/apps\/favs-wishlist-bar\/blocks\/app-embed-block\/457bda0b-72f8-4062-b1a9-214c77aba68c",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
