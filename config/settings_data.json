@@ -178,12 +178,20 @@
               "heading": "Our mission",
               "subtext": "<p>ggggg tt<\/p>"
             }
+          },
+          "5c9c7ac8-bf60-4b9e-88f4-0b08945a7b61": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
           }
         },
         "block_order": [
           "footer-0",
           "footer-1",
-          "footer-2"
+          "footer-2",
+          "5c9c7ac8-bf60-4b9e-88f4-0b08945a7b61"
         ],
         "settings": {
           "color_scheme": "background-1",
